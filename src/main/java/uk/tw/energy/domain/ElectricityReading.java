@@ -1,4 +1,4 @@
-package uk.tw.energy.domain;
+package uk.tw.energy.electricityReading;
 
 import java.math.BigDecimal;
 import java.time.Instant;

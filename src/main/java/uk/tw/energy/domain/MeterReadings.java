@@ -1,4 +1,5 @@
 package uk.tw.energy.meterReading;
+import uk.tw.energy.electricityReading.ElectricityReading;
 
 import java.util.List;
 
